@@ -316,5 +316,7 @@ public class WBT_constructor{
 	JComboBox<?> dur_metric = new JComboBox<Object>(availableMetric);
 	dur_metric.setBounds(1001, 582, 70, 20);
 	frame.getContentPane().add(dur_metric);
+	
+
 	}
 }
